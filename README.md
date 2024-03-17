@@ -1,4 +1,4 @@
-# ttiktok-report-tool
+# tiktok-report-tool
 banning method for tiktok
 
 codeprofessor > https://t.me/+7kypF_oWo5xhOGY0
